@@ -150,9 +150,8 @@
                   <br>(End of Sushi section)<a href="#top"> Back To Top</a>
                 </p>
           </section>
-        </div>
-
-          
+        </div>          
+               
       </div>
     </div>
 
@@ -162,3 +161,38 @@
   <script src="js/script.js"></script>
 </body>
 </html>
+
+
+`* {
+    box-sizing: border-box;
+}
+
+#nav-list > li {
+    text-align: center;
+    background-color: lightsalmon;
+}
+
+div section {
+    margin: 10px;
+    padding: 10px;
+}
+#section-1{
+    background-color: mediumorchid;
+}
+
+#section-2 {
+    background-color: thistle;
+}
+
+#section-3 {
+    background-color: moccasin;
+}
+
+#text > h3 {
+    margin-bottom: 15px;
+}
+
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+}`
